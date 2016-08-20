@@ -1,0 +1,14 @@
+h1{
+  color:#FA58F4;
+}
+nav li {
+  display: inline-block;
+  border:solid;
+  margin:15px;
+}
+p{
+  color:aqua;
+}
+body {
+  background-color: lightyellow;
+}
